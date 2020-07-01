@@ -1,6 +1,6 @@
 package com.pontointeligente.api.enuns;
 
-public class TipoEnum {
+public enum TipoEnum {
 	INICIO_TRABALHO,
 	TERMINO_TRABALHO,
 	INICIO_ALMOCO,
